@@ -25,9 +25,10 @@ Key steps include **data cleaning, filtering, feature selection, and model evalu
 
 ## How to Use
 
-1. Install required Python packages:  
+1. Open the Jupyter Notebook  
    ```bash
-   pip install -r requirements.txt
+   Jupyter Notebook Predictive_Model_Hitting_GS.ipynb
+2. Follow the notebook cells to the end
 
   ---
 
